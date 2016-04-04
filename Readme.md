@@ -1,11 +1,15 @@
 # TP Architecture Logicielle / Inf4043 
-## Tetris Multijoueur Java
+Trinôme : 
+BERDAOUI Amine
+MA David
+TRIKI Yassine
+
+## Builder et lancer le programme
+java -jar TetrisGameBMT.jar
 
 ## Exercice Architecture
-- ...
 
 ## Exercice Design Pattern / Solid
-- ...
 
 >Utiliser la plateforme github.com (cf : https://guides.github.com/activities/hello-world/) ou bitbucket.org pour rendre le code source
 Un readme.md à la racine du repository est attendu contenant :
@@ -16,5 +20,3 @@ Un readme.md à la racine du repository est attendu contenant :
 - L'exercice d'architecture
 - L'exercice Design Pattern / SOLID
 
-## Liens Utiles
-http://www.source-code.biz/snippets/java/RawConsoleInput/
